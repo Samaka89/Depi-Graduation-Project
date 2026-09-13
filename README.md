@@ -4,16 +4,16 @@
 ---
 
 ##  Team Members
-- **[Sama Saleh]**  
-- **[Mohamed Sayed]**  
-- **[Youssef]**  
-- **[Ziad Samy]**  
-- **[Habiba Zaki]**
+- **Sama Saleh**  
+- **Mohamed Sayed**  
+- **Youssef**  
+- **Ziad Samy**  
+- **Habiba Zaki**
 
 ---
 
 ##  Instructor
-**[Hesham Mohamed]**
+**Hesham Mohamed**
 
 ---
 
