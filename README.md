@@ -49,21 +49,38 @@ The website will present this process through an easy-to-use interface where use
 
 ## Project Plan (5 Weeks)
 
-###  Week 1 — [Title]
-- [Task]  
+###  Week 1 — Project Planning & Requirements Analysis
+- Define the project objectives and target users.
+- Identify the main website features and requirements.
+- Create the website structure and sitemap.
+- Divide tasks among team members.
+- Plan the front-end and back-end development workflow.
 
 
-### Week 2 — [Title]
-- [Task]  
+### Week 2 — UI/UX Design & Front-end Structure
+- Design the website layout and user interface.
+- Create the main HTML pages.
+- Apply basic styling using CSS.
+- Ensure the website structure is responsive. 
 
 
-### Week 3 — [Title]
-- [Task]  
+### Week 3 — Front-end Development & Interactivity
+- Complete the CSS styling and page layouts.
+- Implement JavaScript functionality.
+- Add interactive elements and form validation.
+- Test navigation and responsive design.
 
 
-### Week 4 — [Title]
-- [Task]  
+### Week 4 — Back-end Development & Integration
+- Develop the back-end functionality.
+- Set up the database, if required.
+- Connect the front-end with the back-end.
+- Implement core features such as collection requests and user data handling, if included in the project scope.
 
 
-### Week 5 — [Title]
-- [Task] 
+### Week 5 — Testing, Debugging & Final Delivery
+- Test all website features.
+- Fix bugs and improve performance.
+- Check compatibility across devices and screen sizes.
+- Review the final design and user experience.
+- Prepare project documentation and the final presentation.
